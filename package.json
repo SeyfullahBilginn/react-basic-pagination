@@ -1,0 +1,27 @@
+{
+  "name": "react-basic-pagination",
+  "version": "1.0.0",
+  "description": "React package which helps to create customizable paginations",
+  "main": "pagination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeyfullahBilginn/react-basic-pagination.git"
+  },
+  "keywords": [
+    "react",
+    "pagination"
+  ],
+  "author": "Muhammed Seyfullah Bilgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeyfullahBilginn/react-basic-pagination/issues"
+  },
+  "homepage": "https://github.com/SeyfullahBilginn/react-basic-pagination#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

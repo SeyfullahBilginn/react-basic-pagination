@@ -1,0 +1,11 @@
+.parent {
+  display: flex;
+  background-color: rgb(100, 100, 100, 0.2);
+}
+
+.page-button {
+  color: rgb(100, 100, 100, 0.6);
+  cursor: pointer;
+  margin: 4px;
+  padding: 6px;
+}
